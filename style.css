@@ -1,0 +1,188 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	padding: 0px;
+	margin: 0px;
+}
+
+header{
+	margin: 10px;
+}
+
+main{
+	width: 80%;
+	max-width: 800px;
+	height: 400px;
+	margin: 0px auto;
+	padding-top: 0px;
+	border: solid;
+	border-color: red;
+}
+
+.nav{
+	padding: 10px 10px;
+	margin: 2px 10px;
+	font : 14px;
+  	color : #000000;
+  	color : rgb(0, 0, 0);
+  	opacity : 0.5;
+  	filter: alpha(opacity=50) ;
+}
+
+/*
+.box4{
+  	position : absolute;
+  	left : 338px;
+  	top : 250px;
+  	width : 324px;
+  	height : 126px;
+}*/
+
+.box4{
+	position : absolute;
+  	left : 33%;
+  	top : 25%;
+  	width : 324px;
+  	height : 126px;
+}
+
+.box4:hover{
+	opacity : 0.5;
+}
+
+.project-item4{
+	font-size : 12px;
+ 	color : #000000;
+  	color : rgb(0, 0, 0);
+  	opacity : 0.5;
+  	position : absolute;
+  	left : 217px;
+  	top : 307px;
+  	width : 98px;
+  	height : 0px;
+  	filter: alpha(opacity=50);
+}
+
+.line4{
+  	position : absolute ;
+  	left : 217px;
+  	top : 307px;
+  	width : 98px;
+  	height : 0px;
+  	filter: alpha(opacity=50) ;
+}
+
+
+
+.box2{
+  	position : absolute;
+  	left : 338px;
+  	top : 313px;
+  	width : 324px;
+  	height : 126px;
+  	filter: alpha(opacity=50) ;
+}
+
+.box2:hover{
+	opacity : 0.5;
+}
+
+.line2{
+  	position : absolute;
+  	left : 708px;
+  	top : 387px;
+  	width : 98px;
+  	height : 0px;
+  	filter: alpha(opacity=50) ;
+}
+
+.project-item2{
+	font-size : 12px;
+ 	color : #000000;
+  	color : rgb(0, 0, 0);
+  	opacity : 0.5;
+  	position : absolute;
+  	left : 708px;
+  	top : 387px;
+  	width : 98px;
+  	height : 0px;
+  	filter: alpha(opacity=50) ;
+  }
+
+.box3{
+  	position : absolute;
+  	left : 338px;
+  	top : 377px;
+  	width : 324px;
+  	height : 126px;
+  	filter: alpha(opacity=50) ;
+}
+
+.box3:hover{
+	opacity : 0.5;
+}
+
+.line3{
+  	position : absolute;
+  	left : 217px;
+  	top : 434px;
+  	width : 98px;
+  	height : 0px;
+  	filter: alpha(opacity=50) ;
+}
+
+.project-item3{
+	font-size : 12px;
+ 	color : #000000;
+  	color : rgb(0, 0, 0);
+  	opacity : 0.5;
+  	position : absolute;
+  	left : 217px;
+  	top : 434px;
+  	width : 98px;
+  	height : 0px;
+  	filter: alpha(opacity=50) ;
+  }
+
+.box1{
+  	position : absolute ;
+  	left : 338px;
+  	top : 441px;
+  	width : 324px;
+  	height : 126px;
+  	filter: alpha(opacity=50) ;
+}
+
+.box1:hover{
+	opacity : 0.5;
+}
+
+.line1{
+  	position : absolute;
+  	left : 708px;
+  	top : 513px;
+  	width : 98px;
+  	height : 0px;
+  	filter: alpha(opacity=50) ;
+}
+
+.project-item1{
+	font-size : 12px;
+ 	color : #000000;
+  	color : rgb(0, 0, 0);
+  	opacity : 0.5;
+  	position : absolute;
+  	left : 708px;
+  	top : 513px;
+  	width : 98px;
+  	height : 0px;
+  	filter: alpha(opacity=50) ;
+  }
+
+
+/*
+@media (max-width: 460px) {
+	main {
+		width: 100%;
+		margin: 0;
+	}
+}
