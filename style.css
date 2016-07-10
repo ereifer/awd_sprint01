@@ -64,15 +64,13 @@ main{
 
 .line4{
   	position : absolute ;
-  	left : 217px;
-  	top : 307px;
-  	width : 98px;
-  	height : 0px;
+  	left : 21%;
+  	top : 32%;
   	filter: alpha(opacity=50) ;
 }
 
 
-
+/*
 .box2{
   	position : absolute;
   	left : 338px;
@@ -80,6 +78,12 @@ main{
   	width : 324px;
   	height : 126px;
   	filter: alpha(opacity=50) ;
+}*/
+
+.box2{
+	position : absolute;
+  	left : 33%;
+  	top : 31%;
 }
 
 .box2:hover{
@@ -88,10 +92,8 @@ main{
 
 .line2{
   	position : absolute;
-  	left : 708px;
-  	top : 387px;
-  	width : 98px;
-  	height : 0px;
+  	left : 70%;
+  	top : 41%;
   	filter: alpha(opacity=50) ;
 }
 
@@ -101,17 +103,15 @@ main{
   	color : rgb(0, 0, 0);
   	opacity : 0.5;
   	position : absolute;
-  	left : 708px;
-  	top : 387px;
-  	width : 98px;
-  	height : 0px;
+  	left : 82%;
+  	top : 41%;
   	filter: alpha(opacity=50) ;
   }
 
 .box3{
   	position : absolute;
-  	left : 338px;
-  	top : 377px;
+  	left : 33%;
+  	top : 37%;
   	width : 324px;
   	height : 126px;
   	filter: alpha(opacity=50) ;
@@ -123,8 +123,8 @@ main{
 
 .line3{
   	position : absolute;
-  	left : 217px;
-  	top : 434px;
+  	left : 21%;
+  	top : 44%;
   	width : 98px;
   	height : 0px;
   	filter: alpha(opacity=50) ;
@@ -136,17 +136,15 @@ main{
   	color : rgb(0, 0, 0);
   	opacity : 0.5;
   	position : absolute;
-  	left : 217px;
-  	top : 434px;
-  	width : 98px;
-  	height : 0px;
+  	left : 21%;
+  	top : 43%;
   	filter: alpha(opacity=50) ;
   }
 
 .box1{
   	position : absolute ;
-  	left : 338px;
-  	top : 441px;
+  	left : 33%;
+  	top : 44%;
   	width : 324px;
   	height : 126px;
   	filter: alpha(opacity=50) ;
@@ -158,8 +156,8 @@ main{
 
 .line1{
   	position : absolute;
-  	left : 708px;
-  	top : 513px;
+  	left : 70%;
+  	top : 51%;
   	width : 98px;
   	height : 0px;
   	filter: alpha(opacity=50) ;
@@ -171,8 +169,8 @@ main{
   	color : rgb(0, 0, 0);
   	opacity : 0.5;
   	position : absolute;
-  	left : 708px;
-  	top : 513px;
+  	left : 82%;
+  	top : 51%;
   	width : 98px;
   	height : 0px;
   	filter: alpha(opacity=50) ;
