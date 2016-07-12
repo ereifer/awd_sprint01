@@ -7,17 +7,12 @@ body{
 header{
 	margin: 10px;
 }
-/*
-main{
-	width: 80%;
-	max-width: 800px;
-	height: 400px;
-	margin: 0px auto;
-	padding-top: 0px;
-	border: solid;
-	border-color: red;
+
+main{	
+	margin: 50px auto;
+	padding-top: 80px;
 }
-*/
+
 .nav{
 	padding: 5px 5px;
 	margin: 2px 5px;
