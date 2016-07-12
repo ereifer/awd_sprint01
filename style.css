@@ -28,6 +28,21 @@ main{
   	filter: alpha(opacity=50) ;
 }
 
+.link-box{
+	width: 100%;
+	margin: 10px auto -100px;
+	height: 140px;
+	position: relative;
+	max-width: 600px;
+}
+
+.image-item{
+	display: block;
+	width: 60%;
+	margin: 0 auto;
+	height: 85%;
+}
+
 /*
 .box4{
   	position : absolute;
@@ -37,12 +52,12 @@ main{
   	height : 126px;
 }*/
 
-
+/*
 .box4{
 	position : absolute;
   	left : 33%;
   	top : 25%;
-}
+}*/
 
 .box4:hover{
 	opacity : 0.5;
@@ -50,8 +65,11 @@ main{
 
 .line4{
   	position : absolute;
-  	left : 21%;
-  	top : 32%;
+ 	display: block;
+  	left : 10%;
+	top: 20px;
+  	/*top : 32%;*/
+	width: 12%;
   	filter: alpha(opacity=50) ;
 }
 
@@ -78,11 +96,11 @@ main{
   	filter: alpha(opacity=50) ;
 }*/
 
-.box2{
+/*.box2{
 	position : absolute;
   	left : 33%;
   	top : 31%;
-}
+}*/
 
 .box2:hover{
 	opacity : 0.5;
@@ -106,14 +124,14 @@ main{
   	filter: alpha(opacity=50) ;
   }
 
-.box3{
+/*.box3{
   	position : absolute;
   	left : 33%;
   	top : 37%;
   	width : 324px;
   	height : 126px;
   	filter: alpha(opacity=50) ;
-}
+}*/
 
 .box3:hover{
 	opacity : 0.5;
@@ -138,7 +156,7 @@ main{
   	top : 44%;
   	filter: alpha(opacity=50) ;
   }
-
+/*
 .box1{
   	position : absolute ;
   	left : 33%;
@@ -146,7 +164,7 @@ main{
   	width : 324px;
   	height : 126px;
   	filter: alpha(opacity=50) ;
-}
+}*/
 
 .box1:hover{
 	opacity : 0.5;
