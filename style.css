@@ -43,6 +43,29 @@ main{
 	height: 85%;
 }
 
+.left-line{
+	position : absolute;
+ 	display: block;
+  	left : 8%;
+	width: 9%;  
+}
+
+.right-line{
+	position : absolute;
+ 	display: block;
+  	right: 8%;
+	width: 9%; 
+}
+
+.titles{
+	font-size : 12px;
+ 	color : #000000;
+  	color : rgb(0, 0, 0);
+  	opacity : 0.5;
+  	position : absolute;
+
+}
+
 /*
 .box4{
   	position : absolute;
@@ -63,35 +86,16 @@ main{
 	opacity : 0.5;
 }
 
-.left-line{
-	position : absolute;
- 	display: block;
-  	left : 8%;
-	width: 9%;  
-}
-
-.right-line{
-	position : absolute;
- 	display: block;
-  	right: 8%;
-	width: 9%; 
-}
-
 
 .line4{
 	top: 48px;
 }
 
 .project-item4{
-	font-size : 12px;
- 	color : #000000;
-  	color : rgb(0, 0, 0);
-  	opacity : 0.5;
-  	position : absolute;
   	left : 1%;
-  	top : 31%;
-  	width : 98px;
-  	height : 0px;
+  	top : 45px;
+  	/*width : 98px;
+  	height : 0px;*/
   	/*filter: alpha(opacity=50);*/
 }
 
@@ -116,20 +120,12 @@ main{
 }
 
 .line2{
-  	position : absolute;
-  	left : 63%;
-  	top : 40%;
-  	filter: alpha(opacity=50) ;
+  	top : 62px;
 }
 
 .project-item2{
-	font-size : 12px;
- 	color : #000000;
-  	color : rgb(0, 0, 0);
-  	opacity : 0.5;
-  	position : absolute;
-  	left : 72%;
-  	top : 40%;
+  	right : 1%;
+  	top : 58px;
   	filter: alpha(opacity=50) ;
   }
 
@@ -147,22 +143,12 @@ main{
 }
 
 .line3{
-  	position : absolute;
-  	left : 21%;
-  	top : 44%;
-  	width : 98px;
-  	height : 0px;
-  	filter: alpha(opacity=50) ;
+  	top : 48px;
 }
 
 .project-item3{
-	font-size : 12px;
- 	color : #000000;
-  	color : rgb(0, 0, 0);
-  	opacity : 0.5;
-  	position : absolute;
-  	left : 18%;
-  	top : 44%;
+  	left : 1%;
+  	top : 45px;
   	filter: alpha(opacity=50) ;
   }
 /*
@@ -180,24 +166,12 @@ main{
 }
 
 .line1{
-  	position : absolute;
-  	left : 63%;
-  	top : 52%;
-  	width : 98px;
-  	height : 0px;
-  	filter: alpha(opacity=50) ;
+  	top : 63px;
 }
 
 .project-item1{
-	font-size : 12px;
- 	color : #000000;
-  	color : rgb(0, 0, 0);
-  	opacity : 0.5;
-  	position : absolute;
-  	left : 72%;
-  	top : 52%;
-  	width : 98px;
-  	height : 0px;
+  	right : 1%;
+  	top : 60px;
   	filter: alpha(opacity=50) ;
   }
 
