@@ -63,14 +63,23 @@ main{
 	opacity : 0.5;
 }
 
-.line4{
-  	position : absolute;
+.left-line{
+	position : absolute;
  	display: block;
-  	left : 10%;
-	top: 20px;
-  	/*top : 32%;*/
-	width: 12%;
-  	filter: alpha(opacity=50) ;
+  	left : 8%;
+	width: 9%;  
+}
+
+.right-line{
+	position : absolute;
+ 	display: block;
+  	right: 8%;
+	width: 9%; 
+}
+
+
+.line4{
+	top: 48px;
 }
 
 .project-item4{
@@ -79,11 +88,11 @@ main{
   	color : rgb(0, 0, 0);
   	opacity : 0.5;
   	position : absolute;
-  	left : 18%;
-  	top : 32%;
+  	left : 1%;
+  	top : 31%;
   	width : 98px;
   	height : 0px;
-  	filter: alpha(opacity=50);
+  	/*filter: alpha(opacity=50);*/
 }
 
 /*
